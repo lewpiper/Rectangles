@@ -2,7 +2,6 @@ import java.awt.Rectangle;
 
 /**
 * CSCI 114 online, Week 2 Rectangles homework
-*
 * @author Lew Piper III
 * @version 9/4/2016
 */

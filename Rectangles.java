@@ -16,8 +16,8 @@ public class Rectangles
         Rectangle anotherRectangle = new Rectangle(100, 200, 10, 10);
 
 		//Intersecting Rectangles
-		Rectangle r3 = r1.intersection(r2);
-		Rectangle r4 = r1.intersection(anotherRectangle);
+		Rectangle r3 = rectangle1.intersection(rectangle2);
+		Rectangle r4 = rectangle1.intersection(anotherRectangle);
 		
 		
 		//Print to console

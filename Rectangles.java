@@ -6,6 +6,7 @@ import java.awt.Rectangle;
 * @version 9/4/2016
 */
 
+//Rectangles class
 public class Rectangles
 {
     public static void main(String[] args)
